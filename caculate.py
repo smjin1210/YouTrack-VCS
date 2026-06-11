@@ -1,4 +1,4 @@
-#Development Team Lead, please review this. 2026.06.08 Fixed
+#開発チームリーダー様、こちらをご確認ください。 2026.06.08
 
 import ast
 import math
